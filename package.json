@@ -1,0 +1,8 @@
+{
+  "name": "react-typescript-template",
+  "version": "1.0.0",
+  "description": "template for react application with typescript",
+  "main": "index.ts",
+  "author": "Вова Барибін <oknalogia@outlook.com>",
+  "license": "MIT"
+}
