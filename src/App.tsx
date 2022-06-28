@@ -3,9 +3,9 @@ import reactPicture from '../public/react.svg';
 
 const App = () => (
   <div className="App">
-    <img src={reactPicture} alt='mock-picture' className="react-picture" />
+    <img src={reactPicture} alt='react' className="react-picture" />
     <div className="text">
-      Hi, dude! Let's coding!
+      Hi, dude! Let`s coding!
       <div className="small-text">Made by Volodymyr Barybin (github: iangyl)</div>
     </div>
   </div>
